@@ -1,2 +1,2 @@
 # CMS-php
-A content management system made using php.
+A content management website made using php.
